@@ -1,0 +1,6 @@
+csv
+serial,name,description,category,price,stock,image_url
+GH-001,Parrilla Mar y Tierra,"Jugoso corte de lomito de 300g acompañado de langostinos a la parrilla, servido con yuca frita y ensalada.",Platos Fuertes,25.99,30,https://i.postimg.cc/rpF2L1vL/parrilla.jpg
+GH-002,Risotto de Hongos Porcini,"Arroz Arborio cremoso con una mezcla de hongos porcini silvestres, aceite de trufa y queso parmesano.",Platos Fuertes,18.50,45,https://i.postimg.cc/Bv1D0dRr/risotto.jpg
+GH-003,Torta Tres Leches,"Bizcocho esponjoso bañado en una mezcla de tres leches, coronado con merengue italiano y un toque de canela.",Postres,7.50,50,https://i.postimg.cc/t44y91fH/tres-leches.jpg
+GB-001,Jugo de Parchita Natural,"Refrescante jugo natural de maracuyá, endulzado al gusto. Vaso de 16oz.",Bebidas,3.00,100,https://i.postimg.cc/Vkhp3hBq/parchita.jpg

@@ -1,0 +1,8 @@
+serial,nombre,categoria,stock,almacen,price
+LP-001,Laptop Pro 15,Computadoras,150,Principal,1299.99
+MN-002,Monitor UltraWide 34,Monitores,250,Secundario,449.50
+TC-003,Teclado Mecánico RGB,Periféricos,400,Principal,89.90
+MS-004,Mouse Inalámbrico Ergo,Periféricos,600,Principal,49.99
+AU-005,Auriculares Pro-Audio,Audio,320,Secundario,199.00
+CAM-006,Cámara Web 4K Pro,Video,180,Principal,149.99
+IMP-007,Impresora Multifuncional,Oficina,90,Almacén B,299.50

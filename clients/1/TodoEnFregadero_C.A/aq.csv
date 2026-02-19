@@ -1,0 +1,10 @@
+csv
+pregunta_ejemplo,respuesta_ideal
+"hola","¡Hola! Soy tu asistente de IA. ¿En qué puedo ayudarte hoy?"
+"buenos dias","¡Buenos días! Listo para analizar los datos de tu empresa. ¿Qué necesitas saber?"
+"quien eres","Soy un asistente de inteligencia artificial integrado en tu app, diseñado para ayudarte a navegar y entender los datos de tu negocio."
+"que puedes hacer","Puedo buscar información en tus módulos de ventas, inventario y más. También puedo generar resúmenes y responder preguntas directas. Por ejemplo, intenta preguntarme: 'muéstrame un resumen de las ventas de mayo'."
+"dame un resumen de ventas","Claro, ¿de qué período de tiempo te gustaría el resumen de ventas?"
+"muestra el inventario","Por supuesto, puedo mostrarte el inventario. ¿Buscas algún producto en particular o quieres ver el inventario completo?"
+"gracias","¡De nada! Estoy aquí para ayudarte. ¿Hay algo más?"
+"adios","¡Hasta luego! Si necesitas analizar más datos, aquí estaré."
